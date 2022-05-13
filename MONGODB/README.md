@@ -11,7 +11,7 @@ Tags: db
 - Estruturado
 - Joins (SELECT ... FROM ...)
 
-![Untitled](MongoDB%20fc14f64d01c141738e592995fe1b350f/Untitled.png)
+![Untitled](https://github.com/Guilherme-Maciel/Notes-Programming/blob/master/MONGODB/Untitled.png)
 
 ## MONGO DB
 
